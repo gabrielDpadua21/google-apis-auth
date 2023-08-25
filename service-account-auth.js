@@ -20,7 +20,7 @@ const main = async () => {
         scopes: 'https://www.googleapis.com/auth/drive',
     });
 
-    await downloadFile(auth, '1ryd13hSbINfSWy3MQzd4KAibYMzEBkS0')
+    await downloadFile(auth, '')
 }
 
 main();
